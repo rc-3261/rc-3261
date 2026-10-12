@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <h2 align="center">A Passionate Python FullStack Developer From India</h2>
 <p align="center">I'm a passionate Python Django Developer with a strong foundation in backend development and a focus on building scalable, maintainable web applications. With a keen interest in clean code practices and continuous learning, I strive to deliver high-quality software solutions.</p>
 <p align="center">I'm a passionate HTML & CSS Developer dedicated to crafting responsive, accessible, and visually appealing web experiences. With a keen eye for design and a commitment to clean code, I strive to build websites that are both functional and aesthetically pleasing.</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ramakant2124&label=Profile%20views&color=0e75b6&style=flat" alt="ramakant2124" /> </p>
+
 
 - 🔭 **Digital resume** https://portfolio-ritesh-5575.vercel.app/
 
