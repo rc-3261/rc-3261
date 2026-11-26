@@ -22,7 +22,7 @@ class Developer:
         self.name = "Ritesh"
         self.github = "rc-3261"
         self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.focus = ["Web Development", "AI / ML", "Backend APIs"]
+        self.focus = ["Web Development", "Backend APIs","DSA"]
         self.currently = "Learning, building & contributing"
 
     def say_hi(self):
