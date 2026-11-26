@@ -1,0 +1,16 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg" role="presentation">
+  <defs>
+    <linearGradient id="f" x1="0" x2="1">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="0.5" stop-color="#7c4dff"/>
+      <stop offset="1" stop-color="#ff4081"/>
+    </linearGradient>
+    <path id="wave" d="M0 60 C 125 20, 250 100, 375 60 S 625 20, 750 60 S 1000 100, 1125 60 S 1375 20, 1500 60 S 1750 100, 1875 60 V 140 H 0 Z"/>
+  </defs>
+  <g fill="url(#f)">
+    <use href="#wave" opacity="0.25"><animateTransform attributeName="transform" type="translate" from="0 10" to="-750 10" dur="14s" repeatCount="indefinite"/></use>
+    <use href="#wave" opacity="0.45"><animateTransform attributeName="transform" type="translate" from="-300 28" to="-1050 28" dur="10s" repeatCount="indefinite"/></use>
+    <use href="#wave" opacity="0.8"><animateTransform attributeName="transform" type="translate" from="-100 48" to="-850 48" dur="7s" repeatCount="indefinite"/></use>
+  </g>
+  <text x="500" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#0a0f1e" font-weight="700">Thanks for stopping by  •  Let's build something great together</text>
+</svg>

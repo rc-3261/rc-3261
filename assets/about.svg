@@ -1,0 +1,45 @@
+<svg width="900" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Ritesh, terminal style">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#1f2a44"/>
+      <stop offset="1" stop-color="#2b1f55"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="330" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0 14a14 14 0 0 1 14-14h872a14 14 0 0 1 14 14v26H0z" fill="url(#bar)"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#8b949e">ritesh@rc-3261: ~</text>
+
+  <g font-family="'Courier New', Consolas, monospace" font-size="18">
+    <g opacity="0"><set attributeName="opacity" to="1" begin="0.5s" fill="freeze"/>
+      <text x="30" y="85" fill="#27c93f">$</text><text x="52" y="85" fill="#e6edf7">whoami</text>
+    </g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.2s" fill="freeze"/>
+      <text x="30" y="113" fill="#00e5ff">Ritesh Chaudhari - Python &amp; Web Developer</text>
+    </g>
+
+    <g opacity="0"><set attributeName="opacity" to="1" begin="2.0s" fill="freeze"/>
+      <text x="30" y="155" fill="#27c93f">$</text><text x="52" y="155" fill="#e6edf7">cat location.txt</text>
+    </g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="2.7s" fill="freeze"/>
+      <text x="30" y="183" fill="#ffbd2e">Maharashtra, India</text>
+    </g>
+
+    <g opacity="0"><set attributeName="opacity" to="1" begin="3.5s" fill="freeze"/>
+      <text x="30" y="225" fill="#27c93f">$</text><text x="52" y="225" fill="#e6edf7">ls ./currently-learning</text>
+    </g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="4.2s" fill="freeze"/>
+      <text x="30" y="253" fill="#c792ea">TypeScript   FastAPI   PyTorch   Machine-Learning</text>
+    </g>
+
+    <g opacity="0"><set attributeName="opacity" to="1" begin="5.0s" fill="freeze"/>
+      <text x="30" y="295" fill="#27c93f">$</text><text x="52" y="295" fill="#e6edf7">echo $MOTTO</text>
+      <text x="215" y="295" fill="#ff4081">"Solve the problem first, then write the code."</text>
+      <rect x="690" y="279" width="10" height="20" fill="#e6edf7">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>

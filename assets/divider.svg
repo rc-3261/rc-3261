@@ -1,0 +1,19 @@
+<svg width="1000" height="24" viewBox="0 0 1000 24" xmlns="http://www.w3.org/2000/svg" role="presentation">
+  <defs>
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#00e5ff"/>
+      <stop offset="0.5" stop-color="#7c4dff"/>
+      <stop offset="0.75" stop-color="#ff4081"/>
+      <stop offset="1" stop-color="#ff4081" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="1000" height="2" rx="1" fill="url(#d)"/>
+  <polygon points="500,3 509,12 500,21 491,12" fill="#7c4dff">
+    <animateTransform attributeName="transform" type="rotate" from="0 500 12" to="360 500 12" dur="6s" repeatCount="indefinite"/>
+  </polygon>
+  <circle cx="0" cy="12" r="4" fill="#00e5ff">
+    <animate attributeName="cx" values="0;1000" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

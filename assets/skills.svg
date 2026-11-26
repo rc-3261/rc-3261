@@ -1,0 +1,37 @@
+<svg width="900" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill set">
+<rect width="900" height="330" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="30" y="42" font-family="'Courier New', monospace" font-size="18" fill="#8b949e" letter-spacing="4">SKILL_SET.exe</text>
+<rect x="30" y="54" width="840" height="1" fill="#30363d"/>
+<text x="30" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">Python</text>
+<text x="400" y="100" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#00e5ff">90%</text>
+<rect x="30" y="110" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="30" y="110" width="0" height="10" rx="5" fill="#00e5ff"><animate attributeName="width" from="0" to="333" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="30" y="158" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">HTML / CSS</text>
+<text x="400" y="158" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#00e5ff">85%</text>
+<rect x="30" y="168" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="30" y="168" width="0" height="10" rx="5" fill="#00e5ff"><animate attributeName="width" from="0" to="314" dur="1.4s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="30" y="216" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">Django</text>
+<text x="400" y="216" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#7c4dff">80%</text>
+<rect x="30" y="226" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="30" y="226" width="0" height="10" rx="5" fill="#7c4dff"><animate attributeName="width" from="0" to="296" dur="1.4s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="30" y="274" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">JavaScript</text>
+<text x="400" y="274" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#7c4dff">75%</text>
+<rect x="30" y="284" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="30" y="284" width="0" height="10" rx="5" fill="#7c4dff"><animate attributeName="width" from="0" to="278" dur="1.4s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="460" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">React</text>
+<text x="830" y="100" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#ff4081">70%</text>
+<rect x="460" y="110" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="460" y="110" width="0" height="10" rx="5" fill="#ff4081"><animate attributeName="width" from="0" to="259" dur="1.4s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="460" y="158" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">TypeScript</text>
+<text x="830" y="158" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#ff4081">55%</text>
+<rect x="460" y="168" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="460" y="168" width="0" height="10" rx="5" fill="#ff4081"><animate attributeName="width" from="0" to="204" dur="1.4s" begin="1.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="460" y="216" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">FastAPI</text>
+<text x="830" y="216" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#ffbd2e">55%</text>
+<rect x="460" y="226" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="460" y="226" width="0" height="10" rx="5" fill="#ffbd2e"><animate attributeName="width" from="0" to="204" dur="1.4s" begin="1.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="460" y="274" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf7">PyTorch</text>
+<text x="830" y="274" text-anchor="end" font-family="'Courier New', monospace" font-size="14" fill="#ffbd2e">40%</text>
+<rect x="460" y="284" width="370" height="10" rx="5" fill="#1c2333"/>
+<rect x="460" y="284" width="0" height="10" rx="5" fill="#ffbd2e"><animate attributeName="width" from="0" to="148" dur="1.4s" begin="1.7s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+</svg>
