@@ -1,71 +1,96 @@
-<img src="assets/header.svg" width="100%" alt="Ritesh Chaudhari, Software Developer" />
+<div align="center">
+
+<img src="./assets/header.svg" alt="Ritesh banner" width="100%"/>
+
+<a href="https://github.com/chaudhari3261-cmyk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9F5&center=true&vCenter=true&width=600&lines=Building+things+with+Python+%26+JavaScript;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+clean+code;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
 <br/>
 
-I'm a software developer focused on building reliable, maintainable web applications with Python and modern JavaScript. I care about clean architecture, readable code, and shipping features that solve real problems.
+![Profile Views](https://komarev.com/ghpvc/?username=chaudhari3261-cmyk&label=Profile%20Views&color=00d9f5&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/chaudhari3261-cmyk?style=for-the-badge&logo=github&color=302b63)
+![Repos](https://img.shields.io/badge/Open%20to-Collaboration-00f5a0?style=for-the-badge)
 
-<p>
-  <a href="https://github.com/rc-3261"><img src="https://img.shields.io/badge/GitHub-rc--3261-0b1220?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0b1220?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 👨‍💻 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Ritesh"
+        self.github = "chaudhari3261-cmyk"
+        self.languages = ["Python", "JavaScript", "TypeScript"]
+        self.focus = ["Web Development", "AI / ML", "Backend APIs"]
+        self.currently = "Learning, building & contributing"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great 🚀")
+
+Developer().say_hi()
+```
+
+- 🔭 Working on projects that blend **web development** and **AI**
+- 🌱 Constantly improving my skills in **Python, React & cloud (AWS)**
+- 🤝 Open to **collaborations** and **open-source contributions**
+- 💬 Ask me about **Django, FastAPI, React or PyTorch**
+- ⚡ Fun fact: I debug with `print()` and I'm not ashamed
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 🚀 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&perline=5" />
 </p>
 
----
+## 🧩 Frameworks & Libraries
 
-## Overview
-
-| | |
-|---|---|
-| **Role** | Software Developer |
-| **Focus** | Backend development, REST APIs, full-stack web applications |
-| **Currently learning** | TypeScript, FastAPI, machine learning with PyTorch |
-| **Open to** | Collaboration, open-source contributions, and new opportunities |
-
----
-
-## Technical Expertise
-
-| Area | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-
----
-
-## Selected Projects
-
-<!-- Replace each row with a real repository. Keep descriptions to one line and mention the outcome. -->
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Project name**](https://github.com/rc-3261/YOUR-REPO-1) | One-line summary of what it does and the problem it solves. | Python, Django |
-| [**Project name**](https://github.com/rc-3261/YOUR-REPO-2) | One-line summary of what it does and the problem it solves. | React, Tailwind CSS |
-| [**Project name**](https://github.com/rc-3261/YOUR-REPO-3) | One-line summary of what it does and the problem it solves. | FastAPI, PostgreSQL |
-
-More work is available on my [repositories page](https://github.com/rc-3261?tab=repositories).
-
----
-
-## GitHub Activity
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rc-3261&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rc-3261&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-3261&layout=compact&theme=github_dark&hide_border=true" />
-    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-3261&layout=compact&theme=default&hide_border=true" />
-  </picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,tailwind,bootstrap,pytorch&perline=7" />
 </p>
 
----
+## 🛠️ Tools & Platforms
 
-## Let's Connect
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,aws&perline=5" />
+</p>
 
-I'm always interested in connecting with fellow developers and discussing ideas, collaborations, or opportunities. Feel free to reach out through [email](mailto:your.email@example.com), [LinkedIn](https://www.linkedin.com/in/YOUR-ID), or [Instagram](https://www.instagram.com/ritesh_8080__?igsh=bTRsaTJ6N3R6cjRv).
+<img src="./assets/divider.svg" width="100%"/>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chaudhari3261-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari3261-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari3261-cmyk&theme=tokyonight&hide_border=true&background=0f0c29" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaudhari3261-cmyk&theme=onedark&no-frame=true&no-bg=true&column=7" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/chaudhari3261-cmyk"><img src="https://img.shields.io/badge/GitHub-chaudhari3261--cmyk-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ritesh_8080__"><img src="https://img.shields.io/badge/Instagram-ritesh__8080__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+Thank you for taking the time to explore my work and projects. Your interest is truly appreciated.
+If you have questions, suggestions, or ideas for collaboration, don't hesitate to reach out.
+I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
+
+<img src="https://media.tenor.com/s62iXGOChw8AAAAM/thanks-thanks-alot.gif" alt="Thanks a lot" width="200"/>
+
+⭐ *If you like what you see, drop a star on a repo!* ⭐
+
+</div>
+
+<img src="./assets/footer.svg" width="100%"/>
